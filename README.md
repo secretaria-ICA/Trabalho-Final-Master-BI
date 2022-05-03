@@ -2,9 +2,9 @@
 
 Problema - Caso real Caixeiro Viajante – Agente Comercial lotado nos Estados do CE, RN e PB que tem que cumprir uma rotina mensal de visitas a lojas de uma determinada Corporação
 
-Aluno: Sérgio Guerra([https://github.com/sgustavob](https://github.com/sgustavob))
+**Aluno:** Sérgio Guerra([https://github.com/sgustavobr](https://github.com/sgustavobr))
 
-Orientador: Felipe Borges([https://github.com/FelipeBorgesC](https://github.com/FelipeBorgesC))
+**Orientador:** Felipe Borges([https://github.com/FelipeBorgesC](https://github.com/FelipeBorgesC))
 
 Trabalho apresentado ao curso BI MASTER(https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina &quot;Projetos de Sistemas Inteligentes de Apoio à Decisão&quot;.
 
