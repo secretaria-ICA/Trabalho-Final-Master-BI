@@ -1,12 +1,10 @@
-**https://github.com/sgustavobr/Trabalho-Final-Master-BI/blob/main/Rotas/Rota1.jpg**
-
-#Título – Otimização de rota para Agente Comercial
+**Título – Otimização de rota para Agente Comercial**
 
 Problema - Caso real Caixeiro Viajante – Agente Comercial lotado nos Estados do CE, RN e PB que tem que cumprir uma rotina mensal de visitas a lojas de uma determinada Corporação
 
-####Aluno: Sérgio Guerra([https://github.com/sgustavob](https://github.com/sgustavob))
+Aluno: Sérgio Guerra([https://github.com/sgustavob](https://github.com/sgustavob))
 
-####Orientador: Felipe Borges([https://github.com/FelipeBorgesC](https://github.com/FelipeBorgesC))
+Orientador: Felipe Borges([https://github.com/FelipeBorgesC](https://github.com/FelipeBorgesC))
 
 Trabalho apresentado ao curso BI MASTER(https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina &quot;Projetos de Sistemas Inteligentes de Apoio à Decisão&quot;.
 
@@ -47,15 +45,15 @@ A partir desse ponto utilizamos o solver para traçarmos as soluções. No solve
 
 **Rota 1:** Mostra o melhor traçado para percorrer os 20 municípios só considerando as distâncias. Essa rota seria a melhor a ser feito sem levar em conta os custos. Contudo, é o principal parâmetro de comparação, principalmente visual, com as demais rotas.
 
-![](RackMultipart20220503-1-sml9eh_html_e2dc790925190f88.png)
+https://github.com/sgustavobr/Trabalho-Final-Master-BI/blob/main/Rotas/Rota1.jpg
 
-Rota 2: Nessa rota buscamos equilibrar o trajeto com os custos de hospedagem e alimentação. Quando fizemos isso, percebemos que a rota otimizada segue um zig-zague que não é recomendado para esse tipo de problema.
+**Rota 2:** Nessa rota buscamos equilibrar o trajeto com os custos de hospedagem e alimentação. Quando fizemos isso, percebemos que a rota otimizada segue um zig-zague que não é recomendado para esse tipo de problema.
 
-![](RackMultipart20220503-1-sml9eh_html_2d0de5385b4b998.png)
+https://github.com/sgustavobr/Trabalho-Final-Master-BI/blob/main/Rotas/Rota2.jpg
 
-Rota 3: Como nos últimos tempos temos observado uma grande alta nos preços dos combustíveis, testamos a nossa hipótese considerando no trajeto a variável gastos com gasolina para atender a demanda do Agente Comercial. Nota-se uma rota talvez não esteja tão otimizada quanto a rota 1, mas não tão diferente e considerando que tais custos são elevados, essa opção tem que ser analisada em conjunto com a 1° rota.
+**Rota 3:** Como nos últimos tempos temos observado uma grande alta nos preços dos combustíveis, testamos a nossa hipótese considerando no trajeto a variável gastos com gasolina para atender a demanda do Agente Comercial. Nota-se uma rota talvez não esteja tão otimizada quanto a rota 1, mas não tão diferente e considerando que tais custos são elevados, essa opção tem que ser analisada em conjunto com a 1° rota.
 
-![](RackMultipart20220503-1-sml9eh_html_f02d208ffc7c75ca.png)
+https://github.com/sgustavobr/Trabalho-Final-Master-BI/blob/main/Rotas/Rota3.jpg
 
 **4. Conclusões:**
 
@@ -72,5 +70,3 @@ Matrícula: 201.110.026
 Pontifícia Universidade Católica do Rio de Janeiro
 
 Curso de Pós-graduação - Business Intelligence Master\*
-
-
