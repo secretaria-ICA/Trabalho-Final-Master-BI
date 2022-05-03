@@ -2,16 +2,16 @@
 
 Problema - Caso real Caixeiro Viajante – Agente Comercial lotado nos Estados do CE, RN e PB que tem que cumprir uma rotina mensal de visitas a lojas de uma determinada Corporação
 
-#### Aluno: Sérgio Guerra(https://github.com/sgustavobr)
-#### Orientador: Felipe Borges(https://github.com/FelipeBorgesC)
+#### Aluno: [Sérgio Guerra](https://github.com/sgustavobr)
+#### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC)
 
 ---
 
-- [Link para o código de resolução do problema] https://github.com/sgustavobr/Trabalho-Final-Master-BI/blob/main/Controle%20de%20visita%20e%20distribui%C3%A7%C3%A3o%20de%20Chips_VF.xlsx
+- [Link para o código de resolução do problema](https://github.com/sgustavobr/Trabalho-Final-Master-BI/blob/main/Controle%20de%20visita%20e%20distribui%C3%A7%C3%A3o%20de%20Chips_VF.xlsx)
 
 ---
 
-Trabalho apresentado ao curso BI MASTER(https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
+Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
 ### Resumo
 
@@ -50,21 +50,24 @@ A partir desse ponto utilizamos o solver para traçarmos as soluções. No solve
 
 ### 3. Resultados
 
+- [Mapa da Rota 1]
+
+![rota1](https://github.com/sgustavobr/Trabalho-Final-Master-BI/blob/main/Rotas/Rota1.jpg "Rota 1")
 
 Rota 1: Mostra o melhor traçado para percorrer os 20 municípios só considerando as distâncias. Essa rota seria a melhor a ser feito sem levar em conta os custos. Contudo, é o principal parâmetro de comparação, principalmente visual, com as demais rotas.
 
-- [Mapa da Rota 1] https://github.com/sgustavobr/Trabalho-Final-Master-BI/blob/main/Rotas/Rota1.jpg
+- [Mapa da Rota 2]
 
+![rota2](https://github.com/sgustavobr/Trabalho-Final-Master-BI/blob/main/Rotas/Rota2.jpg "Rota 2")
 
 Rota 2: Nessa rota buscamos equilibrar o trajeto com os custos de hospedagem e alimentação. Quando fizemos isso, percebemos que a rota otimizada segue um zig-zague que não é recomendado para esse tipo de problema.
 
-- [Mapa da Rota 2] https://github.com/sgustavobr/Trabalho-Final-Master-BI/blob/main/Rotas/Rota2.jpg
+- [Mapa da Rota 3]
 
+![rota3](https://github.com/sgustavobr/Trabalho-Final-Master-BI/blob/main/Rotas/Rota3.jpg "Rota 3")
 
 Rota 3: Como nos últimos tempos temos observado uma grande alta nos preços dos combustíveis, testamos a nossa hipótese considerando no trajeto a variável gastos com gasolina para atender a demanda do Agente Comercial. Nota-se uma rota talvez não esteja tão otimizada quanto a rota 1, mas não tão diferente e considerando que tais custos são elevados, essa opção tem que ser analisada em conjunto com a 1° rota.
 
-
-- [Mapa da Rota 3] https://github.com/sgustavobr/Trabalho-Final-Master-BI/blob/main/Rotas/Rota3.jpg
 
 ### 4. Conclusões
 
