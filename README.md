@@ -1,9 +1,9 @@
-#Título – Otimização de rota para Agente Comercial
+# Título – Otimização de rota para Agente Comercial
 
 Problema - Caso real Caixeiro Viajante – Agente Comercial lotado nos Estados do CE, RN e PB que tem que cumprir uma rotina mensal de visitas a lojas de uma determinada Corporação
 
-####Aluno: Sérgio Guerra(https://github.com/sgustavobr)
-####Orientador: Felipe Borges(https://github.com/FelipeBorgesC)
+#### Aluno: Sérgio Guerra(https://github.com/sgustavobr)
+#### Orientador: Felipe Borges(https://github.com/FelipeBorgesC)
 
 ---
 
@@ -13,7 +13,7 @@ Problema - Caso real Caixeiro Viajante – Agente Comercial lotado nos Estados d
 
 Trabalho apresentado ao curso BI MASTER(https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-###Resumo:
+### Resumo
 
 Trata-se de um problema de um Agente Comercial que tem que visitar 20 municípios que se localizam nos Estados do Ceará, Rio Grande do Norte e Paraíba.
 
@@ -81,3 +81,4 @@ Matrícula: 201.110.026
 Pontifícia Universidade Católica do Rio de Janeiro
 
 Curso de Pós-graduação - *Business Intelligence Master*
+
